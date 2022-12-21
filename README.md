@@ -4,8 +4,8 @@
 
 This playbook installs Apache and should work on the latest versions of Red Hat-based and Debian-based OSes, at a minimum:
 
-  - CentOS 8
-  - Debian 10
+  - RockyLinux 9
+  - Debian 11
 
 Create a new molecule scenario:
 
